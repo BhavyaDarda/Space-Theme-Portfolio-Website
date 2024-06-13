@@ -17,9 +17,9 @@ const Projects = () => {
           description="Your very own Urban Heart Companion."
         />
         <ProjectCard
-          src="/"
+          src="Screenshot 2024-06-13 232152.png"
           title="ecommerce website dupe"
-          description="flipkart website landing page duplicate."
+          description="Amazon website landing page duplicate."
         />
         <ProjectCard
           src="/.png"
